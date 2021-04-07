@@ -23,3 +23,4 @@ Ubunutu 18.04 and 20.04
 
 # Todo
 - [ ] smbclient
+- [ ] squid // for proxying web traffic 
